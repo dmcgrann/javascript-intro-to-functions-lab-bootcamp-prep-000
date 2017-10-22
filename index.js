@@ -12,4 +12,6 @@ function logWhisper() {
 }
 function sayHiToGrandma(whisper) {
   return ("I can't hear you!")
+} else {
+  return.toUpperCase("YES INDEED!")
 }
