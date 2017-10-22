@@ -10,6 +10,15 @@ function logShout() {
 function logWhisper() {
   console.log('hello')
 }
-function sayHiToGrandma("hello") {
-  return ("I can\'t hear you!")
+
+var uppercase = YES INDEED!
+var lowercase = I cant hear you!
+
+function sayHiToGrandma(string) {
+  return string.toLowerCase()
 }
+function sayHiToGrandma(string) {
+  return string.toUpperCase()
+  }
+
+
