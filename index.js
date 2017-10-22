@@ -10,12 +10,9 @@ function logShout() {
 function logWhisper() {
   console.log('hello')
 }
-var uppercase = "YES INDEED!"
-
-var lowercase = "I can't hear you!"
-
-var mixedcase = "I love you too!"
-
-function sayHiToGrandma(string) {
-  return string()
+function sayHiToGrandma(whisper) {
+  return ("I can't hear you!")
+}
+function sayHiToGrandma(shout){
+  return ('YES INDEED!')
 }
