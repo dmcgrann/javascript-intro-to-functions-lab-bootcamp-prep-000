@@ -14,5 +14,5 @@ function sayHiToGrandma(whisper) {
   return ("I can't hear you!")
 }
 function sayHiToGrandma(){
-  return string.toUpperCase ('YES INDEED!')
+  return string.toUpperCase ("YES INDEED!")
 }
